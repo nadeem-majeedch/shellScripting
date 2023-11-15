@@ -1,4 +1,5 @@
 #!/bin/bash
+#List all files in the current directory:
 #list all files in the directory
 
 echo "List of files in the current directory:"
